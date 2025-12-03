@@ -131,3 +131,9 @@ Secure: Гарантирует, что куки будут отправлять�
 
 <img width="1395" height="812" alt="Снимок экрана 2025-11-29 в 15 26 21" src="https://github.com/user-attachments/assets/6cc34e4b-3819-4427-a85f-7a61eeca4218" />
 
+# Задание 4. XSS
+
+Использовал данный [репозиторий](https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/XSS%20Injection#xss-in-uppercase-output)
+<img width="1326" height="655" alt="Снимок экрана 2025-12-03 в 18 38 40" src="https://github.com/user-attachments/assets/d551658b-f8e5-44ac-b0d8-abd7ca64da02" />
+
+
